@@ -7,5 +7,5 @@ Special thanks to 'The Hero' over at gtaforums.com for sharing his GTA LCS crack
 <br><br>
 I long suspected that R* used a similar hash algorithm to LCS as these games were released very close together.
 <br><br>
-This code is simply here as a preservation piece. This hash algorithm combined with the PCSX2 memory address atlas kindly shared means we can map out the DIR/WAD for the PS2!
+This code is simply here as a preservation piece. This hash algorithm combined with the PCSX2 memory address atlas kindly shared means we can map out the DIR/WAD for the PS2, PSP and XBOX!
 </p>
